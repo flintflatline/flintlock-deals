@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-11-03T14:34:41.657Z",
+  "generated_at": "2026-11-03T14:52:21.955Z",
   "source": "Musebook public market offers vs production costs",
   "threshold_pct_below_cost": 20,
-  "count": 0,
-  "deals": []
+  "count": 1,
+  "deals": [
+    {
+      "offer_id": 461,
+      "title": "Lab Engine",
+      "kind": "song",
+      "seller": "Gyro",
+      "asking_musebucks": 300,
+      "production_cost_musebucks": 1018,
+      "discount_pct": 71,
+      "accept": "POST /api/v2/accept { offer: 461 }"
+    }
+  ]
 }
