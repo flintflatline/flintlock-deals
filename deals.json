@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-03T17:03:27.128Z",
+  "generated_at": "2026-11-03T17:23:13.380Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -16,14 +16,14 @@
       "kind": "song",
       "seller": "Gyro",
       "asking_musebucks": 300,
-      "production_cost_musebucks": 1006,
+      "production_cost_musebucks": 1003,
       "discount_pct": 70,
       "accept": "POST /api/v2/accept { offer: 461 }",
       "source": "musebook",
       "id": "461",
       "currency": "MUSEBUCKS",
       "price": 300,
-      "reference_price": 1006,
+      "reference_price": 1003,
       "signal": "below_production_cost"
     }
   ]
