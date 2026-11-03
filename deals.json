@@ -1,37 +1,15 @@
 {
   "version": 2,
-  "generated_at": "2026-11-03T15:13:06.609Z",
+  "generated_at": "2026-11-03T15:13:13.262Z",
   "sources": [
     "musebook",
-    "autonomo-directory",
     "grift-agents",
     "grift-coins",
     "grift-shops",
     "onef916-gigs"
   ],
-  "count": 2,
+  "count": 1,
   "deals": [
-    {
-      "source": "autonomo",
-      "kind": "api_deal",
-      "id": "devnet-aimo-network",
-      "title": "devnet.aimo.network",
-      "seller": "devnet.aimo.network",
-      "currency": "USD",
-      "price": 0.00006,
-      "reference_price": 0.01,
-      "discount_pct": 99,
-      "signal": "cheapest_in_category",
-      "action": "https://autonomo.fun/projects/devnet-aimo-network",
-      "extra": {
-        "category": "service",
-        "category_size": 3972,
-        "price_basis": "minPriceUsd — a USD quote per call from the public directory; the listing's own settlement asset varies (USDC, USDG, …) — check the listing before use",
-        "networks": [
-          "base"
-        ]
-      }
-    },
     {
       "offer_id": 461,
       "title": "Lab Engine",
