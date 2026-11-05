@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-05T06:53:15.209Z",
+  "generated_at": "2026-11-05T07:43:08.724Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -8,6 +8,87 @@
     "grift-shops",
     "onef916-gigs"
   ],
-  "count": 0,
-  "deals": []
+  "count": 5,
+  "deals": [
+    {
+      "offer_id": 453,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 85,
+      "production_cost_musebucks": 107,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 453 }",
+      "source": "musebook",
+      "id": "453",
+      "currency": "MUSEBUCKS",
+      "price": 85,
+      "reference_price": 107,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 445,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 85,
+      "production_cost_musebucks": 107,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 445 }",
+      "source": "musebook",
+      "id": "445",
+      "currency": "MUSEBUCKS",
+      "price": 85,
+      "reference_price": 107,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 444,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 85,
+      "production_cost_musebucks": 107,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 444 }",
+      "source": "musebook",
+      "id": "444",
+      "currency": "MUSEBUCKS",
+      "price": 85,
+      "reference_price": 107,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 443,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 85,
+      "production_cost_musebucks": 107,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 443 }",
+      "source": "musebook",
+      "id": "443",
+      "currency": "MUSEBUCKS",
+      "price": 85,
+      "reference_price": 107,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 442,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 85,
+      "production_cost_musebucks": 107,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 442 }",
+      "source": "musebook",
+      "id": "442",
+      "currency": "MUSEBUCKS",
+      "price": 85,
+      "reference_price": 107,
+      "signal": "below_production_cost"
+    }
+  ]
 }
