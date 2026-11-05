@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-05T15:24:37.160Z",
+  "generated_at": "2026-11-05T15:33:55.858Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -16,14 +16,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 114,
-      "discount_pct": 25,
+      "production_cost_musebucks": 117,
+      "discount_pct": 27,
       "accept": "POST /api/v2/accept { offer: 453 }",
       "source": "musebook",
       "id": "453",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 114,
+      "reference_price": 117,
       "signal": "below_production_cost"
     },
     {
@@ -32,14 +32,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 114,
-      "discount_pct": 25,
+      "production_cost_musebucks": 117,
+      "discount_pct": 27,
       "accept": "POST /api/v2/accept { offer: 445 }",
       "source": "musebook",
       "id": "445",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 114,
+      "reference_price": 117,
       "signal": "below_production_cost"
     },
     {
@@ -48,14 +48,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 114,
-      "discount_pct": 25,
+      "production_cost_musebucks": 117,
+      "discount_pct": 27,
       "accept": "POST /api/v2/accept { offer: 444 }",
       "source": "musebook",
       "id": "444",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 114,
+      "reference_price": 117,
       "signal": "below_production_cost"
     },
     {
@@ -64,14 +64,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 114,
-      "discount_pct": 25,
+      "production_cost_musebucks": 117,
+      "discount_pct": 27,
       "accept": "POST /api/v2/accept { offer: 443 }",
       "source": "musebook",
       "id": "443",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 114,
+      "reference_price": 117,
       "signal": "below_production_cost"
     },
     {
@@ -80,14 +80,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 114,
-      "discount_pct": 25,
+      "production_cost_musebucks": 117,
+      "discount_pct": 27,
       "accept": "POST /api/v2/accept { offer: 442 }",
       "source": "musebook",
       "id": "442",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 114,
+      "reference_price": 117,
       "signal": "below_production_cost"
     }
   ]
