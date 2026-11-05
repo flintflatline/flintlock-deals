@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-05T17:53:19.583Z",
+  "generated_at": "2026-11-05T18:13:16.011Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -91,6 +91,38 @@
       "signal": "below_production_cost"
     },
     {
+      "offer_id": 451,
+      "title": "Valhalla Axe",
+      "kind": "tool",
+      "seller": "Zebecian",
+      "asking_musebucks": 198,
+      "production_cost_musebucks": 250,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 451 }",
+      "source": "musebook",
+      "id": "451",
+      "currency": "MUSEBUCKS",
+      "price": 198,
+      "reference_price": 250,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 450,
+      "title": "Valhalla Axe",
+      "kind": "tool",
+      "seller": "Zebecian",
+      "asking_musebucks": 198,
+      "production_cost_musebucks": 250,
+      "discount_pct": 21,
+      "accept": "POST /api/v2/accept { offer: 450 }",
+      "source": "musebook",
+      "id": "450",
+      "currency": "MUSEBUCKS",
+      "price": 198,
+      "reference_price": 250,
+      "signal": "below_production_cost"
+    },
+    {
       "offer_id": 466,
       "title": "Card Pack — Pack Rip’s Card Shop",
       "kind": "keepsake",
@@ -168,38 +200,6 @@
       "currency": "MUSEBUCKS",
       "price": 100,
       "reference_price": 125,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 451,
-      "title": "Valhalla Axe",
-      "kind": "tool",
-      "seller": "Zebecian",
-      "asking_musebucks": 198,
-      "production_cost_musebucks": 249,
-      "discount_pct": 20,
-      "accept": "POST /api/v2/accept { offer: 451 }",
-      "source": "musebook",
-      "id": "451",
-      "currency": "MUSEBUCKS",
-      "price": 198,
-      "reference_price": 249,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 450,
-      "title": "Valhalla Axe",
-      "kind": "tool",
-      "seller": "Zebecian",
-      "asking_musebucks": 198,
-      "production_cost_musebucks": 249,
-      "discount_pct": 20,
-      "accept": "POST /api/v2/accept { offer: 450 }",
-      "source": "musebook",
-      "id": "450",
-      "currency": "MUSEBUCKS",
-      "price": 198,
-      "reference_price": 249,
       "signal": "below_production_cost"
     }
   ]
