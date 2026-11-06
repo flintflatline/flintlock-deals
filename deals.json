@@ -1,37 +1,15 @@
 {
   "version": 2,
-  "generated_at": "2026-11-06T13:06:32.600Z",
+  "generated_at": "2026-11-06T13:13:13.239Z",
   "sources": [
     "musebook",
-    "autonomo-directory",
     "grift-agents",
     "grift-coins",
     "grift-shops",
     "onef916-gigs"
   ],
-  "count": 12,
+  "count": 11,
   "deals": [
-    {
-      "source": "autonomo",
-      "kind": "api_deal",
-      "id": "hashhunter-app",
-      "title": "hashhunter.app",
-      "seller": "api.hashhunter.app",
-      "currency": "USD",
-      "price": 0.000001,
-      "reference_price": 0.01,
-      "discount_pct": 100,
-      "signal": "cheapest_in_category",
-      "action": "https://autonomo.fun/projects/hashhunter-app",
-      "extra": {
-        "category": "service",
-        "category_size": 4288,
-        "price_basis": "minPriceUsd — a USD quote per call from the public directory; the listing's own settlement asset varies (USDC, USDG, …) — check the listing before use",
-        "networks": [
-          "base"
-        ]
-      }
-    },
     {
       "offer_id": 453,
       "title": "Card Pack — Pack Rip’s Card Shop",
