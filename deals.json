@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-06T10:23:12.885Z",
+  "generated_at": "2026-11-06T10:33:09.021Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -8,7 +8,7 @@
     "grift-shops",
     "onef916-gigs"
   ],
-  "count": 5,
+  "count": 7,
   "deals": [
     {
       "offer_id": 453,
@@ -88,6 +88,38 @@
       "currency": "MUSEBUCKS",
       "price": 85,
       "reference_price": 124,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 451,
+      "title": "Valhalla Axe",
+      "kind": "tool",
+      "seller": "Zebecian",
+      "asking_musebucks": 198,
+      "production_cost_musebucks": 248,
+      "discount_pct": 20,
+      "accept": "POST /api/v2/accept { offer: 451 }",
+      "source": "musebook",
+      "id": "451",
+      "currency": "MUSEBUCKS",
+      "price": 198,
+      "reference_price": 248,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 450,
+      "title": "Valhalla Axe",
+      "kind": "tool",
+      "seller": "Zebecian",
+      "asking_musebucks": 198,
+      "production_cost_musebucks": 248,
+      "discount_pct": 20,
+      "accept": "POST /api/v2/accept { offer: 450 }",
+      "source": "musebook",
+      "id": "450",
+      "currency": "MUSEBUCKS",
+      "price": 198,
+      "reference_price": 248,
       "signal": "below_production_cost"
     }
   ]
