@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-08T16:13:14.604Z",
+  "generated_at": "2026-11-08T16:23:22.039Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -8,7 +8,7 @@
     "grift-shops",
     "onef916-gigs"
   ],
-  "count": 15,
+  "count": 13,
   "deals": [
     {
       "offer_id": 453,
@@ -197,38 +197,6 @@
       "accept": "POST /api/v2/accept { offer: 476 }",
       "source": "musebook",
       "id": "476",
-      "currency": "MUSEBUCKS",
-      "price": 124,
-      "reference_price": 156,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 475,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 124,
-      "production_cost_musebucks": 156,
-      "discount_pct": 21,
-      "accept": "POST /api/v2/accept { offer: 475 }",
-      "source": "musebook",
-      "id": "475",
-      "currency": "MUSEBUCKS",
-      "price": 124,
-      "reference_price": 156,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 474,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 124,
-      "production_cost_musebucks": 156,
-      "discount_pct": 21,
-      "accept": "POST /api/v2/accept { offer: 474 }",
-      "source": "musebook",
-      "id": "474",
       "currency": "MUSEBUCKS",
       "price": 124,
       "reference_price": 156,
