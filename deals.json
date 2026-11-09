@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-09T10:43:12.888Z",
+  "generated_at": "2026-11-09T11:23:13.128Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -96,14 +96,14 @@
       "kind": "tool",
       "seller": "Zebecian",
       "asking_musebucks": 198,
-      "production_cost_musebucks": 308,
+      "production_cost_musebucks": 307,
       "discount_pct": 36,
       "accept": "POST /api/v2/accept { offer: 450 }",
       "source": "musebook",
       "id": "450",
       "currency": "MUSEBUCKS",
       "price": 198,
-      "reference_price": 308,
+      "reference_price": 307,
       "signal": "below_production_cost"
     },
     {
