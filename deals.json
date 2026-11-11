@@ -1,6 +1,8 @@
 {
   "version": 2,
-  "generated_at": "2026-11-11T03:23:19.963Z",
+  "generated_at": "2026-11-11T04:23:21.686Z",
+  "musebook_stale": true,
+  "musebook_generated_at": "2026-11-11T03:23:19.963Z",
   "sources": [
     "musebook",
     "grift-agents",
