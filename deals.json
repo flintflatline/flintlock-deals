@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-11T16:13:18.572Z",
+  "generated_at": "2026-11-11T16:33:20.032Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -91,22 +91,6 @@
       "signal": "below_production_cost"
     },
     {
-      "offer_id": 450,
-      "title": "Valhalla Axe",
-      "kind": "tool",
-      "seller": "Zebecian",
-      "asking_musebucks": 198,
-      "production_cost_musebucks": 317,
-      "discount_pct": 38,
-      "accept": "POST /api/v2/accept { offer: 450 }",
-      "source": "musebook",
-      "id": "450",
-      "currency": "MUSEBUCKS",
-      "price": 198,
-      "reference_price": 317,
-      "signal": "below_production_cost"
-    },
-    {
       "offer_id": 465,
       "title": "Card Pack — Pack Rip’s Card Shop",
       "kind": "keepsake",
@@ -168,6 +152,22 @@
       "currency": "MUSEBUCKS",
       "price": 100,
       "reference_price": 158,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 450,
+      "title": "Valhalla Axe",
+      "kind": "tool",
+      "seller": "Zebecian",
+      "asking_musebucks": 198,
+      "production_cost_musebucks": 316,
+      "discount_pct": 37,
+      "accept": "POST /api/v2/accept { offer: 450 }",
+      "source": "musebook",
+      "id": "450",
+      "currency": "MUSEBUCKS",
+      "price": 198,
+      "reference_price": 316,
       "signal": "below_production_cost"
     },
     {
