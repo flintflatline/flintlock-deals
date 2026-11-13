@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-13T08:23:14.206Z",
+  "generated_at": "2026-11-13T08:33:17.668Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -203,7 +203,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000270212302041663,
         "recorded_peak_usd": 0.00000397524802983851,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -223,7 +223,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000149620461692547,
         "recorded_peak_usd": 0.000003972943873862565,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -243,7 +243,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000297494605386813,
         "recorded_peak_usd": 0.000003975768850550769,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -263,7 +263,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000186071838264446,
         "recorded_peak_usd": 0.000003973640705617602,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -283,7 +283,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000464389856368422,
         "recorded_peak_usd": 0.000003978951170166878,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -303,7 +303,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000346250710443899,
         "recorded_peak_usd": 0.000003976699181469597,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -323,7 +323,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000385836170027264,
         "recorded_peak_usd": 0.00000397022270658225,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -343,7 +343,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.001927452452835413,
         "recorded_peak_usd": 0.000003992263841967472,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -363,7 +363,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000226134339778818,
         "recorded_peak_usd": 0.000003974406217456777,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -383,7 +383,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000447743714929943,
         "recorded_peak_usd": 0.000003972701113380415,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -403,7 +403,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000570996055295434,
         "recorded_peak_usd": 0.000004220716027301068,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -423,7 +423,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000049001999766209,
         "recorded_peak_usd": 0.000003972192172908907,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -443,7 +443,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000230015347566432,
         "recorded_peak_usd": 0.0000039703784141075715,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -463,7 +463,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000217627579023727,
         "recorded_peak_usd": 0.00000397032323776493,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -483,7 +483,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000199319525945978,
         "recorded_peak_usd": 0.0000039701952522702745,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -503,7 +503,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000164030505474236,
         "recorded_peak_usd": 0.000003974664905614,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -523,7 +523,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000436868042122433,
         "recorded_peak_usd": 0.0000039889074478265005,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -543,7 +543,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -563,7 +563,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -583,7 +583,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000473296376619664,
         "recorded_peak_usd": 0.000003973870499282951,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -603,7 +603,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.00003850726236165,
         "recorded_peak_usd": 0.0000039723724887179905,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -623,7 +623,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000088319999999998,
         "recorded_peak_usd": 0.0000039745197730170815,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -643,7 +643,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000407694320148927,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -663,7 +663,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000395886448163327,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -683,7 +683,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000175372761514754,
         "recorded_peak_usd": 0.000003970227118820409,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -703,7 +703,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000107658699999997,
         "recorded_peak_usd": 0.00000397237001651111,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -723,7 +723,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.003982909690750126,
         "recorded_peak_usd": 0.0000039734678796616295,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -743,7 +743,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.010161022887449992,
         "recorded_peak_usd": 0.000004074816003274885,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -763,7 +763,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.028375597447592528,
         "recorded_peak_usd": 0.000004109980698221743,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -783,7 +783,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.1488657344380089,
         "recorded_peak_usd": 0.000004098258417604346,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     },
     {
@@ -803,7 +803,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.5290533284878222,
         "recorded_peak_usd": 0.000004035979729807855,
-        "prior_runs": 1330
+        "prior_runs": 1331
       }
     }
   ]
