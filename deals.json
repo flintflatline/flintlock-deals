@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-13T09:53:21.327Z",
+  "generated_at": "2026-11-13T10:03:16.004Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -16,14 +16,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 191,
-      "discount_pct": 55,
+      "production_cost_musebucks": 192,
+      "discount_pct": 56,
       "accept": "POST /api/v2/accept { offer: 453 }",
       "source": "musebook",
       "id": "453",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -32,14 +32,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 191,
-      "discount_pct": 55,
+      "production_cost_musebucks": 192,
+      "discount_pct": 56,
       "accept": "POST /api/v2/accept { offer: 445 }",
       "source": "musebook",
       "id": "445",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -48,14 +48,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 191,
-      "discount_pct": 55,
+      "production_cost_musebucks": 192,
+      "discount_pct": 56,
       "accept": "POST /api/v2/accept { offer: 444 }",
       "source": "musebook",
       "id": "444",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -64,14 +64,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 191,
-      "discount_pct": 55,
+      "production_cost_musebucks": 192,
+      "discount_pct": 56,
       "accept": "POST /api/v2/accept { offer: 443 }",
       "source": "musebook",
       "id": "443",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -80,14 +80,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 191,
-      "discount_pct": 55,
+      "production_cost_musebucks": 192,
+      "discount_pct": 56,
       "accept": "POST /api/v2/accept { offer: 442 }",
       "source": "musebook",
       "id": "442",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -96,14 +96,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 100,
-      "production_cost_musebucks": 191,
+      "production_cost_musebucks": 192,
       "discount_pct": 48,
       "accept": "POST /api/v2/accept { offer: 465 }",
       "source": "musebook",
       "id": "465",
       "currency": "MUSEBUCKS",
       "price": 100,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -112,14 +112,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 100,
-      "production_cost_musebucks": 191,
+      "production_cost_musebucks": 192,
       "discount_pct": 48,
       "accept": "POST /api/v2/accept { offer: 464 }",
       "source": "musebook",
       "id": "464",
       "currency": "MUSEBUCKS",
       "price": 100,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -128,14 +128,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 100,
-      "production_cost_musebucks": 191,
+      "production_cost_musebucks": 192,
       "discount_pct": 48,
       "accept": "POST /api/v2/accept { offer: 463 }",
       "source": "musebook",
       "id": "463",
       "currency": "MUSEBUCKS",
       "price": 100,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -144,14 +144,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 100,
-      "production_cost_musebucks": 191,
+      "production_cost_musebucks": 192,
       "discount_pct": 48,
       "accept": "POST /api/v2/accept { offer: 462 }",
       "source": "musebook",
       "id": "462",
       "currency": "MUSEBUCKS",
       "price": 100,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -160,14 +160,14 @@
       "kind": "tool",
       "seller": "Zebecian",
       "asking_musebucks": 198,
-      "production_cost_musebucks": 382,
+      "production_cost_musebucks": 384,
       "discount_pct": 48,
       "accept": "POST /api/v2/accept { offer: 450 }",
       "source": "musebook",
       "id": "450",
       "currency": "MUSEBUCKS",
       "price": 198,
-      "reference_price": 382,
+      "reference_price": 384,
       "signal": "below_production_cost"
     },
     {
@@ -176,14 +176,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 124,
-      "production_cost_musebucks": 191,
+      "production_cost_musebucks": 192,
       "discount_pct": 35,
       "accept": "POST /api/v2/accept { offer: 473 }",
       "source": "musebook",
       "id": "473",
       "currency": "MUSEBUCKS",
       "price": 124,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -192,14 +192,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 503 }",
       "source": "musebook",
       "id": "503",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -208,14 +208,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 502 }",
       "source": "musebook",
       "id": "502",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -224,14 +224,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 501 }",
       "source": "musebook",
       "id": "501",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -240,14 +240,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 500 }",
       "source": "musebook",
       "id": "500",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -256,14 +256,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 499 }",
       "source": "musebook",
       "id": "499",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -272,14 +272,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 498 }",
       "source": "musebook",
       "id": "498",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -288,14 +288,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 497 }",
       "source": "musebook",
       "id": "497",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -304,14 +304,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 191,
-      "discount_pct": 21,
+      "production_cost_musebucks": 192,
+      "discount_pct": 22,
       "accept": "POST /api/v2/accept { offer: 491 }",
       "source": "musebook",
       "id": "491",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 191,
+      "reference_price": 192,
       "signal": "below_production_cost"
     },
     {
@@ -321,9 +321,9 @@
       "title": "Sloth Snack Bar (SNOOZ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031605459742780464,
+      "price": 0.000003159925920239085,
       "reference_price": 0.00000397524802983851,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SNOOZ",
       "extra": {
@@ -331,7 +331,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000270212302041663,
         "recorded_peak_usd": 0.00000397524802983851,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -341,9 +341,9 @@
       "title": "Hot Dog Hopper (HOTDG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031587140405624087,
+      "price": 0.000003158094345922712,
       "reference_price": 0.000003972943873862565,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HOTDG",
       "extra": {
@@ -351,7 +351,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000149620461692547,
         "recorded_peak_usd": 0.000003972943873862565,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -361,9 +361,9 @@
       "title": "Tuna Tuesday Tilt (TUNTLT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003160960056064414,
+      "price": 0.0000031603399207885127,
       "reference_price": 0.000003975768850550769,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TUNTLT",
       "extra": {
@@ -371,7 +371,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000297494605386813,
         "recorded_peak_usd": 0.000003975768850550769,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -381,9 +381,9 @@
       "title": "Lobster Lunch Break (LOBBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003159268061036503,
+      "price": 0.0000031586482577058916,
       "reference_price": 0.000003973640705617602,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=LOBBRK",
       "extra": {
@@ -391,7 +391,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000186071838264446,
         "recorded_peak_usd": 0.000003973640705617602,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -401,9 +401,9 @@
       "title": "Shell Shack Foreman (SHELF)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031634901793110804,
+      "price": 0.0000031628695476610868,
       "reference_price": 0.000003978951170166878,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SHELF",
       "extra": {
@@ -411,7 +411,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000464389856368422,
         "recorded_peak_usd": 0.000003978951170166878,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -421,9 +421,9 @@
       "title": "Fry Squid Bandit (FRYSQ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031616997215187894,
+      "price": 0.000003161079441131076,
       "reference_price": 0.000003976699181469597,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=FRYSQ",
       "extra": {
@@ -431,7 +431,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000346250710443899,
         "recorded_peak_usd": 0.000003976699181469597,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -441,9 +441,9 @@
       "title": "Stuffed Crust Tycoon (CRUST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.00000315655055938373,
+      "price": 0.000003155931289188181,
       "reference_price": 0.00000397022270658225,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CRUST",
       "extra": {
@@ -451,7 +451,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000385836170027264,
         "recorded_peak_usd": 0.00000397022270658225,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -461,9 +461,9 @@
       "title": "Pocket Protector Pig (PIGPP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003174074502842702,
+      "price": 0.0000031734517946994036,
       "reference_price": 0.000003992263841967472,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PIGPP",
       "extra": {
@@ -471,7 +471,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.001927452452835413,
         "recorded_peak_usd": 0.000003992263841967472,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -481,9 +481,9 @@
       "title": "Hungry Hedge Hopper (HHOP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031598766860439,
+      "price": 0.0000031592567633097434,
       "reference_price": 0.000003974406217456777,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HHOP",
       "extra": {
@@ -491,7 +491,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000226134339778818,
         "recorded_peak_usd": 0.000003974406217456777,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -501,9 +501,9 @@
       "title": "Market Dusk Bell (NIGHTY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003158521032312656,
+      "price": 0.000003157901375538425,
       "reference_price": 0.000003972701113380415,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=NIGHTY",
       "extra": {
@@ -511,7 +511,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000447743714929943,
         "recorded_peak_usd": 0.000003972701113380415,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -521,9 +521,9 @@
       "title": "Pickle Briefcase Toad (TOADY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000033557068511267537,
+      "price": 0.0000033550485093074774,
       "reference_price": 0.000004220716027301068,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TOADY",
       "extra": {
@@ -531,7 +531,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000570996055295434,
         "recorded_peak_usd": 0.000004220716027301068,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -541,9 +541,9 @@
       "title": "Speckled Sill Cat (SILL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003158116395986495,
+      "price": 0.000003157496818596139,
       "reference_price": 0.000003972192172908907,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SILL",
       "extra": {
@@ -551,7 +551,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000049001999766209,
         "recorded_peak_usd": 0.000003972192172908907,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -561,9 +561,9 @@
       "title": "Kettle Mascot (KETTLE)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003156674355632071,
+      "price": 0.000003156055061149464,
       "reference_price": 0.0000039703784141075715,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=KETTLE",
       "extra": {
@@ -571,7 +571,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000230015347566432,
         "recorded_peak_usd": 0.0000039703784141075715,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -581,9 +581,9 @@
       "title": "Goat Lunch Bus (GLBUS)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031566304873334635,
+      "price": 0.0000031560112014571913,
       "reference_price": 0.00000397032323776493,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=GLBUS",
       "extra": {
@@ -591,7 +591,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000217627579023727,
         "recorded_peak_usd": 0.00000397032323776493,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -601,9 +601,9 @@
       "title": "Brisket Bandit Pig (BRISK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031565287316601414,
+      "price": 0.0000031559094657468807,
       "reference_price": 0.0000039701952522702745,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=BRISK",
       "extra": {
@@ -611,7 +611,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000199319525945978,
         "recorded_peak_usd": 0.0000039701952522702745,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -621,9 +621,9 @@
       "title": "Penguin Brick Mart (PBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003160082357692,
+      "price": 0.000003159462394608,
       "reference_price": 0.000003974664905614,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PBRK",
       "extra": {
@@ -631,7 +631,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000164030505474236,
         "recorded_peak_usd": 0.000003974664905614,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -641,9 +641,9 @@
       "title": "Pickle Briefcase (PKLBR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031714059805490704,
+      "price": 0.000003170783795931783,
       "reference_price": 0.0000039889074478265005,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PKLBR",
       "extra": {
@@ -651,7 +651,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000436868042122433,
         "recorded_peak_usd": 0.0000039889074478265005,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -661,9 +661,9 @@
       "title": "Hamster Hedge Fund (HAMST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031600823576920017,
+      "price": 0.0000031594623946080017,
       "reference_price": 0.000003974664905614002,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HAMST",
       "extra": {
@@ -671,7 +671,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -681,9 +681,9 @@
       "title": "Clipboard Cat (CLIP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031600823576920017,
+      "price": 0.0000031594623946080017,
       "reference_price": 0.000003974664905614002,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CLIP",
       "extra": {
@@ -691,7 +691,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -701,9 +701,9 @@
       "title": "Smug Pancake Cat (SMUGP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031594507599369186,
+      "price": 0.0000031588309207633894,
       "reference_price": 0.000003973870499282951,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SMUGP",
       "extra": {
@@ -711,7 +711,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000473296376619664,
         "recorded_peak_usd": 0.000003973870499282951,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -721,9 +721,9 @@
       "title": "Sill Sentry Cat (SENT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031582597572057747,
+      "price": 0.0000031576401516899927,
       "reference_price": 0.0000039723724887179905,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SENT",
       "extra": {
@@ -731,7 +731,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.00003850726236165,
         "recorded_peak_usd": 0.0000039723724887179905,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -741,9 +741,9 @@
       "title": "Cat Pilot Dispatch (CPILOT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031599669691070656,
+      "price": 0.0000031593470286606598,
       "reference_price": 0.0000039745197730170815,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CPILOT",
       "extra": {
@@ -751,7 +751,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000088319999999998,
         "recorded_peak_usd": 0.0000039745197730170815,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -761,9 +761,9 @@
       "title": "Gravy Gremlin (GRVY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003161904824538001,
+      "price": 0.0000031612845039120007,
       "reference_price": 0.000003976957154421001,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=GRVY",
       "extra": {
@@ -771,7 +771,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000407694320148927,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -781,9 +781,9 @@
       "title": "Cat Ferry Captain (CFRY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003161904824538001,
+      "price": 0.0000031612845039120007,
       "reference_price": 0.000003976957154421001,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CFRY",
       "extra": {
@@ -791,7 +791,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000395886448163327,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -801,9 +801,9 @@
       "title": "Pickle Courier (PKLC)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031565540673614577,
+      "price": 0.0000031559347964776937,
       "reference_price": 0.000003970227118820409,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PKLC",
       "extra": {
@@ -811,7 +811,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000175372761514754,
         "recorded_peak_usd": 0.000003970227118820409,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -821,9 +821,9 @@
       "title": "Dreamy Bat Stripes (BATSTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031582577916621292,
+      "price": 0.000003157638186531959,
       "reference_price": 0.00000397237001651111,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=BATSTR",
       "extra": {
@@ -831,7 +831,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000107658699999997,
         "recorded_peak_usd": 0.00000397237001651111,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -841,9 +841,9 @@
       "title": "Lantern Oracle (LANTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031591306546720944,
+      "price": 0.0000031585108782986517,
       "reference_price": 0.0000039734678796616295,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=LANTR",
       "extra": {
@@ -851,7 +851,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.003982909690750126,
         "recorded_peak_usd": 0.0000039734678796616295,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -861,9 +861,9 @@
       "title": "Terminal Signal (TSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.00000323970811843843,
+      "price": 0.0000032390725339159317,
       "reference_price": 0.000004074816003274885,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TSIG",
       "extra": {
@@ -871,7 +871,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.010161022887449992,
         "recorded_peak_usd": 0.000004074816003274885,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -881,9 +881,9 @@
       "title": "Waking Lattice (WLAT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000032676660305527897,
+      "price": 0.0000032670249610867193,
       "reference_price": 0.000004109980698221743,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=WLAT",
       "extra": {
@@ -891,7 +891,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.028375597447592528,
         "recorded_peak_usd": 0.000004109980698221743,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -901,9 +901,9 @@
       "title": "Wake Sigil (WKSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000032583461575444692,
+      "price": 0.000003257706916504547,
       "reference_price": 0.000004098258417604346,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=WKSIG",
       "extra": {
@@ -911,7 +911,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.1488657344380089,
         "recorded_peak_usd": 0.000004098258417604346,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     },
     {
@@ -921,9 +921,9 @@
       "title": "Quiet Sigil Wakes (SIGIL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003208831094705355,
+      "price": 0.000003208201567814492,
       "reference_price": 0.000004035979729807855,
-      "discount_pct": 20,
+      "discount_pct": 21,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SIGIL",
       "extra": {
@@ -931,7 +931,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.5290533284878222,
         "recorded_peak_usd": 0.000004035979729807855,
-        "prior_runs": 1339
+        "prior_runs": 1340
       }
     }
   ]
