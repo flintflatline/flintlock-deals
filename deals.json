@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-14T13:13:17.678Z",
+  "generated_at": "2026-11-14T13:23:18.727Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -160,14 +160,14 @@
       "kind": "tool",
       "seller": "Zebecian",
       "asking_musebucks": 198,
-      "production_cost_musebucks": 508,
+      "production_cost_musebucks": 509,
       "discount_pct": 61,
       "accept": "POST /api/v2/accept { offer: 450 }",
       "source": "musebook",
       "id": "450",
       "currency": "MUSEBUCKS",
       "price": 198,
-      "reference_price": 508,
+      "reference_price": 509,
       "signal": "below_production_cost"
     },
     {
@@ -321,7 +321,7 @@
       "title": "Sloth Snack Bar (SNOOZ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003107841380966338,
+      "price": 0.0000030881791410466444,
       "reference_price": 0.00000397524802983851,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -331,7 +331,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000270212302041663,
         "recorded_peak_usd": 0.00000397524802983851,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -341,7 +341,7 @@
       "title": "Hot Dog Hopper (HOTDG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031060399961882076,
+      "price": 0.000003086389153008358,
       "reference_price": 0.000003972943873862565,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -351,7 +351,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000149620461692547,
         "recorded_peak_usd": 0.000003972943873862565,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -361,7 +361,7 @@
       "title": "Tuna Tuesday Tilt (TUNTLT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031082485576127945,
+      "price": 0.000003088583741626973,
       "reference_price": 0.000003975768850550769,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -371,7 +371,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000297494605386813,
         "recorded_peak_usd": 0.000003975768850550769,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -381,7 +381,7 @@
       "title": "Lobster Lunch Break (LOBBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003106584777934559,
+      "price": 0.0000030869304881086016,
       "reference_price": 0.000003973640705617602,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -391,7 +391,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000186071838264446,
         "recorded_peak_usd": 0.000003973640705617602,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -401,7 +401,7 @@
       "title": "Shell Shack Foreman (SHELF)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031107364890616414,
+      "price": 0.0000030910559327921136,
       "reference_price": 0.000003978951170166878,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -411,7 +411,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000464389856368422,
         "recorded_peak_usd": 0.000003978951170166878,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -421,7 +421,7 @@
       "title": "Fry Squid Bandit (FRYSQ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031089758885631706,
+      "price": 0.0000030893064710054236,
       "reference_price": 0.000003976699181469597,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -431,7 +431,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000346250710443899,
         "recorded_peak_usd": 0.000003976699181469597,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -441,7 +441,7 @@
       "title": "Stuffed Crust Tycoon (CRUST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031039125927621026,
+      "price": 0.000003084275208929576,
       "reference_price": 0.00000397022270658225,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -451,7 +451,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000385836170027264,
         "recorded_peak_usd": 0.00000397022270658225,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -461,7 +461,7 @@
       "title": "Pocket Protector Pig (PIGPP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003121144310662346,
+      "price": 0.000003101397907697228,
       "reference_price": 0.000003992263841967472,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -471,7 +471,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.001927452452835413,
         "recorded_peak_usd": 0.000003992263841967472,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -481,7 +481,7 @@
       "title": "Hungry Hedge Hopper (HHOP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031071832536406155,
+      "price": 0.0000030875251774653957,
       "reference_price": 0.000003974406217456777,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -491,7 +491,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000226134339778818,
         "recorded_peak_usd": 0.000003974406217456777,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -501,7 +501,7 @@
       "title": "Market Dusk Bell (NIGHTY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003105850206503029,
+      "price": 0.0000030862005640570224,
       "reference_price": 0.000003972701113380415,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -511,7 +511,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000447743714929943,
         "recorded_peak_usd": 0.000003972701113380415,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -521,7 +521,7 @@
       "title": "Pickle Briefcase Toad (TOADY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003299747796488306,
+      "price": 0.0000032788714309033746,
       "reference_price": 0.000004220716027301068,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -531,7 +531,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000570996055295434,
         "recorded_peak_usd": 0.000004220716027301068,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -541,7 +541,7 @@
       "title": "Speckled Sill Cat (SILL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031054523178062914,
+      "price": 0.00000308580519266476,
       "reference_price": 0.000003972192172908907,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -551,7 +551,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000049001999766209,
         "recorded_peak_usd": 0.000003972192172908907,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -561,7 +561,7 @@
       "title": "Kettle Mascot (KETTLE)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003104034324610503,
+      "price": 0.0000030843961706225806,
       "reference_price": 0.0000039703784141075715,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -571,7 +571,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000230015347566432,
         "recorded_peak_usd": 0.0000039703784141075715,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -581,7 +581,7 @@
       "title": "Goat Lunch Bus (GLBUS)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031039911878503247,
+      "price": 0.0000030843533067737975,
       "reference_price": 0.00000397032323776493,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -591,7 +591,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000217627579023727,
         "recorded_peak_usd": 0.00000397032323776493,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -601,7 +601,7 @@
       "title": "Brisket Bandit Pig (BRISK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031038911290329965,
+      "price": 0.0000030842538809940764,
       "reference_price": 0.0000039701952522702745,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -611,7 +611,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000199319525945978,
         "recorded_peak_usd": 0.0000039701952522702745,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -621,7 +621,7 @@
       "title": "Penguin Brick Mart (PBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003107385495552,
+      "price": 0.0000030877261398619998,
       "reference_price": 0.000003974664905614,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -631,7 +631,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000164030505474236,
         "recorded_peak_usd": 0.000003974664905614,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -641,7 +641,7 @@
       "title": "Pickle Briefcase (PKLBR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003118520288079642,
+      "price": 0.0000030987904863998706,
       "reference_price": 0.0000039889074478265005,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -651,7 +651,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000436868042122433,
         "recorded_peak_usd": 0.0000039889074478265005,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -661,7 +661,7 @@
       "title": "Hamster Hedge Fund (HAMST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031073854955520017,
+      "price": 0.0000030877261398620014,
       "reference_price": 0.000003974664905614002,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -671,7 +671,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -681,7 +681,7 @@
       "title": "Clipboard Cat (CLIP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031073854955520017,
+      "price": 0.0000030877261398620014,
       "reference_price": 0.000003974664905614002,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -691,7 +691,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -701,7 +701,7 @@
       "title": "Smug Pancake Cat (SMUGP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031067644301869202,
+      "price": 0.0000030871090037631587,
       "reference_price": 0.000003973870499282951,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -711,7 +711,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000473296376619664,
         "recorded_peak_usd": 0.000003973870499282951,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -721,7 +721,7 @@
       "title": "Sill Sentry Cat (SENT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031055932883643306,
+      "price": 0.0000030859452713507267,
       "reference_price": 0.0000039723724887179905,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -731,7 +731,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.00003850726236165,
         "recorded_peak_usd": 0.0000039723724887179905,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -741,7 +741,7 @@
       "title": "Cat Pilot Dispatch (CPILOT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031072720311625975,
+      "price": 0.000003087613393322633,
       "reference_price": 0.0000039745197730170815,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -751,7 +751,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000088319999999998,
         "recorded_peak_usd": 0.0000039745197730170815,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -761,7 +761,7 @@
       "title": "Gravy Gremlin (GRVY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003109177571328001,
+      "price": 0.000003089506877793001,
       "reference_price": 0.000003976957154421001,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -771,7 +771,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000407694320148927,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -781,7 +781,7 @@
       "title": "Cat Ferry Captain (CFRY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003109177571328001,
+      "price": 0.000003089506877793001,
       "reference_price": 0.000003976957154421001,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -791,7 +791,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000395886448163327,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -801,7 +801,7 @@
       "title": "Pickle Courier (PKLC)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003103916042241539,
+      "price": 0.000003084278636585346,
       "reference_price": 0.000003970227118820409,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -811,7 +811,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000175372761514754,
         "recorded_peak_usd": 0.000003970227118820409,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -821,7 +821,7 @@
       "title": "Dreamy Bat Stripes (BATSTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031055913555976737,
+      "price": 0.0000030859433508120173,
       "reference_price": 0.00000397237001651111,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -831,7 +831,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000107658699999997,
         "recorded_peak_usd": 0.00000397237001651111,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -841,7 +841,7 @@
       "title": "Lantern Oracle (LANTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003106449662929496,
+      "price": 0.0000030867962279295477,
       "reference_price": 0.0000039734678796616295,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -851,7 +851,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.003982909690750126,
         "recorded_peak_usd": 0.0000039734678796616295,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -861,7 +861,7 @@
       "title": "Terminal Signal (TSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031856834340261294,
+      "price": 0.000003165528714299559,
       "reference_price": 0.000004074816003274885,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -871,7 +871,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.010161022887449992,
         "recorded_peak_usd": 0.000004074816003274885,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -881,7 +881,7 @@
       "title": "Waking Lattice (WLAT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000032131751259368204,
+      "price": 0.0000031928464757627513,
       "reference_price": 0.000004109980698221743,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -891,7 +891,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.028375597447592528,
         "recorded_peak_usd": 0.000004109980698221743,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -901,7 +901,7 @@
       "title": "Wake Sigil (WKSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000032040106691510825,
+      "price": 0.000003183739999332497,
       "reference_price": 0.000004098258417604346,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -911,7 +911,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.1488657344380089,
         "recorded_peak_usd": 0.000004098258417604346,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     },
     {
@@ -921,7 +921,7 @@
       "title": "Quiet Sigil Wakes (SIGIL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031553213089820063,
+      "price": 0.0000031353586799428,
       "reference_price": 0.000004035979729807855,
       "discount_pct": 22,
       "signal": "below_peak",
@@ -931,7 +931,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.5290533284878222,
         "recorded_peak_usd": 0.000004035979729807855,
-        "prior_runs": 1503
+        "prior_runs": 1504
       }
     }
   ]
