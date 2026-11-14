@@ -1,8 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-14T01:53:26.594Z",
-  "musebook_stale": true,
-  "musebook_generated_at": "2026-11-14T01:43:31.730Z",
+  "generated_at": "2026-11-14T02:03:14.615Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -18,14 +16,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 66,
       "accept": "POST /api/v2/accept { offer: 453 }",
       "source": "musebook",
       "id": "453",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -34,14 +32,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 66,
       "accept": "POST /api/v2/accept { offer: 445 }",
       "source": "musebook",
       "id": "445",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -50,14 +48,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 66,
       "accept": "POST /api/v2/accept { offer: 444 }",
       "source": "musebook",
       "id": "444",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -66,14 +64,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 66,
       "accept": "POST /api/v2/accept { offer: 443 }",
       "source": "musebook",
       "id": "443",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -82,78 +80,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 85,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 66,
       "accept": "POST /api/v2/accept { offer: 442 }",
       "source": "musebook",
       "id": "442",
       "currency": "MUSEBUCKS",
       "price": 85,
-      "reference_price": 248,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 465,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 100,
-      "production_cost_musebucks": 248,
-      "discount_pct": 60,
-      "accept": "POST /api/v2/accept { offer: 465 }",
-      "source": "musebook",
-      "id": "465",
-      "currency": "MUSEBUCKS",
-      "price": 100,
-      "reference_price": 248,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 464,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 100,
-      "production_cost_musebucks": 248,
-      "discount_pct": 60,
-      "accept": "POST /api/v2/accept { offer: 464 }",
-      "source": "musebook",
-      "id": "464",
-      "currency": "MUSEBUCKS",
-      "price": 100,
-      "reference_price": 248,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 463,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 100,
-      "production_cost_musebucks": 248,
-      "discount_pct": 60,
-      "accept": "POST /api/v2/accept { offer: 463 }",
-      "source": "musebook",
-      "id": "463",
-      "currency": "MUSEBUCKS",
-      "price": 100,
-      "reference_price": 248,
-      "signal": "below_production_cost"
-    },
-    {
-      "offer_id": 462,
-      "title": "Card Pack — Pack Rip’s Card Shop",
-      "kind": "keepsake",
-      "seller": "Pack Rip",
-      "asking_musebucks": 100,
-      "production_cost_musebucks": 248,
-      "discount_pct": 60,
-      "accept": "POST /api/v2/accept { offer: 462 }",
-      "source": "musebook",
-      "id": "462",
-      "currency": "MUSEBUCKS",
-      "price": 100,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -162,14 +96,78 @@
       "kind": "tool",
       "seller": "Zebecian",
       "asking_musebucks": 198,
-      "production_cost_musebucks": 496,
-      "discount_pct": 60,
+      "production_cost_musebucks": 502,
+      "discount_pct": 61,
       "accept": "POST /api/v2/accept { offer: 450 }",
       "source": "musebook",
       "id": "450",
       "currency": "MUSEBUCKS",
       "price": 198,
-      "reference_price": 496,
+      "reference_price": 502,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 465,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 100,
+      "production_cost_musebucks": 251,
+      "discount_pct": 60,
+      "accept": "POST /api/v2/accept { offer: 465 }",
+      "source": "musebook",
+      "id": "465",
+      "currency": "MUSEBUCKS",
+      "price": 100,
+      "reference_price": 251,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 464,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 100,
+      "production_cost_musebucks": 251,
+      "discount_pct": 60,
+      "accept": "POST /api/v2/accept { offer: 464 }",
+      "source": "musebook",
+      "id": "464",
+      "currency": "MUSEBUCKS",
+      "price": 100,
+      "reference_price": 251,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 463,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 100,
+      "production_cost_musebucks": 251,
+      "discount_pct": 60,
+      "accept": "POST /api/v2/accept { offer: 463 }",
+      "source": "musebook",
+      "id": "463",
+      "currency": "MUSEBUCKS",
+      "price": 100,
+      "reference_price": 251,
+      "signal": "below_production_cost"
+    },
+    {
+      "offer_id": 462,
+      "title": "Card Pack — Pack Rip’s Card Shop",
+      "kind": "keepsake",
+      "seller": "Pack Rip",
+      "asking_musebucks": 100,
+      "production_cost_musebucks": 251,
+      "discount_pct": 60,
+      "accept": "POST /api/v2/accept { offer: 462 }",
+      "source": "musebook",
+      "id": "462",
+      "currency": "MUSEBUCKS",
+      "price": 100,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -178,14 +176,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 124,
-      "production_cost_musebucks": 248,
-      "discount_pct": 50,
+      "production_cost_musebucks": 251,
+      "discount_pct": 51,
       "accept": "POST /api/v2/accept { offer: 473 }",
       "source": "musebook",
       "id": "473",
       "currency": "MUSEBUCKS",
       "price": 124,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -194,14 +192,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 503 }",
       "source": "musebook",
       "id": "503",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -210,14 +208,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 502 }",
       "source": "musebook",
       "id": "502",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -226,14 +224,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 501 }",
       "source": "musebook",
       "id": "501",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -242,14 +240,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 500 }",
       "source": "musebook",
       "id": "500",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -258,14 +256,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 499 }",
       "source": "musebook",
       "id": "499",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -274,14 +272,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 498 }",
       "source": "musebook",
       "id": "498",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -290,14 +288,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 497 }",
       "source": "musebook",
       "id": "497",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -306,14 +304,14 @@
       "kind": "keepsake",
       "seller": "Pack Rip",
       "asking_musebucks": 150,
-      "production_cost_musebucks": 248,
+      "production_cost_musebucks": 251,
       "discount_pct": 40,
       "accept": "POST /api/v2/accept { offer: 491 }",
       "source": "musebook",
       "id": "491",
       "currency": "MUSEBUCKS",
       "price": 150,
-      "reference_price": 248,
+      "reference_price": 251,
       "signal": "below_production_cost"
     },
     {
@@ -333,7 +331,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000270212302041663,
         "recorded_peak_usd": 0.00000397524802983851,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -353,7 +351,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000149620461692547,
         "recorded_peak_usd": 0.000003972943873862565,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -373,7 +371,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000297494605386813,
         "recorded_peak_usd": 0.000003975768850550769,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -393,7 +391,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000186071838264446,
         "recorded_peak_usd": 0.000003973640705617602,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -413,7 +411,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000464389856368422,
         "recorded_peak_usd": 0.000003978951170166878,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -433,7 +431,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000346250710443899,
         "recorded_peak_usd": 0.000003976699181469597,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -453,7 +451,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000385836170027264,
         "recorded_peak_usd": 0.00000397022270658225,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -473,7 +471,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.001927452452835413,
         "recorded_peak_usd": 0.000003992263841967472,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -493,7 +491,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000226134339778818,
         "recorded_peak_usd": 0.000003974406217456777,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -513,7 +511,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000447743714929943,
         "recorded_peak_usd": 0.000003972701113380415,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -533,7 +531,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000570996055295434,
         "recorded_peak_usd": 0.000004220716027301068,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -553,7 +551,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000049001999766209,
         "recorded_peak_usd": 0.000003972192172908907,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -573,7 +571,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000230015347566432,
         "recorded_peak_usd": 0.0000039703784141075715,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -593,7 +591,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000217627579023727,
         "recorded_peak_usd": 0.00000397032323776493,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -613,7 +611,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000199319525945978,
         "recorded_peak_usd": 0.0000039701952522702745,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -633,7 +631,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000164030505474236,
         "recorded_peak_usd": 0.000003974664905614,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -653,7 +651,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000436868042122433,
         "recorded_peak_usd": 0.0000039889074478265005,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -673,7 +671,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -693,7 +691,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -713,7 +711,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000473296376619664,
         "recorded_peak_usd": 0.000003973870499282951,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -733,7 +731,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.00003850726236165,
         "recorded_peak_usd": 0.0000039723724887179905,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -753,7 +751,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000088319999999998,
         "recorded_peak_usd": 0.0000039745197730170815,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -773,7 +771,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000407694320148927,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -793,7 +791,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000395886448163327,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -813,7 +811,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000175372761514754,
         "recorded_peak_usd": 0.000003970227118820409,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -833,7 +831,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000107658699999997,
         "recorded_peak_usd": 0.00000397237001651111,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -853,7 +851,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.003982909690750126,
         "recorded_peak_usd": 0.0000039734678796616295,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -873,7 +871,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.010161022887449992,
         "recorded_peak_usd": 0.000004074816003274885,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -893,7 +891,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.028375597447592528,
         "recorded_peak_usd": 0.000004109980698221743,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -913,7 +911,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.1488657344380089,
         "recorded_peak_usd": 0.000004098258417604346,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     },
     {
@@ -933,7 +931,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.5290533284878222,
         "recorded_peak_usd": 0.000004035979729807855,
-        "prior_runs": 1435
+        "prior_runs": 1436
       }
     }
   ]
