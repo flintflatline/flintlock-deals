@@ -1,8 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-11-17T23:03:10.306Z",
-  "musebook_stale": true,
-  "musebook_generated_at": "2026-11-17T22:53:09.660Z",
+  "generated_at": "2026-11-17T23:13:11.383Z",
   "sources": [
     "musebook",
     "grift-agents",
@@ -19,9 +17,9 @@
       "title": "Sloth Snack Bar (SNOOZ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029462194005476148,
+      "price": 0.0000029617370687331982,
       "reference_price": 0.00000397524802983851,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SNOOZ",
       "extra": {
@@ -29,7 +27,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000270212302041663,
         "recorded_peak_usd": 0.00000397524802983851,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -39,9 +37,9 @@
       "title": "Hot Dog Hopper (HOTDG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029445116960252145,
+      "price": 0.0000029600203697713032,
       "reference_price": 0.000003972943873862565,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HOTDG",
       "extra": {
@@ -49,7 +47,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000149620461692547,
         "recorded_peak_usd": 0.000003972943873862565,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -59,9 +57,9 @@
       "title": "Tuna Tuesday Tilt (TUNTLT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029466054021442817,
+      "price": 0.0000029621251033911828,
       "reference_price": 0.000003975768850550769,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TUNTLT",
       "extra": {
@@ -69,7 +67,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000297494605386813,
         "recorded_peak_usd": 0.000003975768850550769,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -79,9 +77,9 @@
       "title": "Lobster Lunch Break (LOBBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002945028146626586,
+      "price": 0.0000029605395405058266,
       "reference_price": 0.000003973640705617602,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=LOBBRK",
       "extra": {
@@ -89,7 +87,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000186071838264446,
         "recorded_peak_usd": 0.000003973640705617602,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -99,9 +97,9 @@
       "title": "Shell Shack Foreman (SHELF)",
       "seller": null,
       "currency": "USD",
-      "price": 0.00000294896394976731,
+      "price": 0.0000029644960734289864,
       "reference_price": 0.000003978951170166878,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SHELF",
       "extra": {
@@ -109,7 +107,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000464389856368422,
         "recorded_peak_usd": 0.000003978951170166878,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -119,9 +117,9 @@
       "title": "Fry Squid Bandit (FRYSQ)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002947294908555304,
+      "price": 0.000002962818241416231,
       "reference_price": 0.000003976699181469597,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=FRYSQ",
       "extra": {
@@ -129,7 +127,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000346250710443899,
         "recorded_peak_usd": 0.000003976699181469597,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -139,9 +137,9 @@
       "title": "Stuffed Crust Tycoon (CRUST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029424949273171437,
+      "price": 0.000002957992978789951,
       "reference_price": 0.00000397022270658225,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CRUST",
       "extra": {
@@ -149,7 +147,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000385836170027264,
         "recorded_peak_usd": 0.00000397022270658225,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -159,9 +157,9 @@
       "title": "Pocket Protector Pig (PIGPP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029588305169947204,
+      "price": 0.0000029744146076335806,
       "reference_price": 0.000003992263841967472,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PIGPP",
       "extra": {
@@ -169,7 +167,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.001927452452835413,
         "recorded_peak_usd": 0.000003992263841967472,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -179,9 +177,9 @@
       "title": "Hungry Hedge Hopper (HHOP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029455954988559295,
+      "price": 0.000002961109880965999,
       "reference_price": 0.000003974406217456777,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HHOP",
       "extra": {
@@ -189,7 +187,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000226134339778818,
         "recorded_peak_usd": 0.000003974406217456777,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -199,9 +197,9 @@
       "title": "Market Dusk Bell (NIGHTY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002944331776272578,
+      "price": 0.0000029598395023855677,
       "reference_price": 0.000003972701113380415,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=NIGHTY",
       "extra": {
@@ -209,7 +207,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000447743714929943,
         "recorded_peak_usd": 0.000003972701113380415,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -219,9 +217,9 @@
       "title": "Pickle Briefcase Toad (TOADY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000031281458038586402,
+      "price": 0.000003144621674125254,
       "reference_price": 0.000004220716027301068,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TOADY",
       "extra": {
@@ -229,7 +227,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000570996055295434,
         "recorded_peak_usd": 0.000004220716027301068,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -239,9 +237,9 @@
       "title": "Speckled Sill Cat (SILL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002943954579609722,
+      "price": 0.0000029594603190367726,
       "reference_price": 0.000003972192172908907,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SILL",
       "extra": {
@@ -249,7 +247,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000049001999766209,
         "recorded_peak_usd": 0.000003972192172908907,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -259,9 +257,9 @@
       "title": "Kettle Mascot (KETTLE)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002942610328552103,
+      "price": 0.0000029581089878404966,
       "reference_price": 0.0000039703784141075715,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=KETTLE",
       "extra": {
@@ -269,7 +267,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000230015347566432,
         "recorded_peak_usd": 0.0000039703784141075715,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -279,9 +277,9 @@
       "title": "Goat Lunch Bus (GLBUS)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002942569435100947,
+      "price": 0.000002958067879004496,
       "reference_price": 0.00000397032323776493,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=GLBUS",
       "extra": {
@@ -289,7 +287,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000217627579023727,
         "recorded_peak_usd": 0.00000397032323776493,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -299,9 +297,9 @@
       "title": "Brisket Bandit Pig (BRISK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029424745798002183,
+      "price": 0.0000029579725241031328,
       "reference_price": 0.0000039701952522702745,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=BRISK",
       "extra": {
@@ -309,7 +307,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000199319525945978,
         "recorded_peak_usd": 0.0000039701952522702745,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -319,9 +317,9 @@
       "title": "Penguin Brick Mart (PBRK)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029457872232619997,
+      "price": 0.0000029613026151799998,
       "reference_price": 0.000003974664905614,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PBRK",
       "extra": {
@@ -329,7 +327,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000164030505474236,
         "recorded_peak_usd": 0.000003974664905614,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -339,9 +337,9 @@
       "title": "Pickle Briefcase (PKLBR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029563429555998616,
+      "price": 0.0000029719139443114486,
       "reference_price": 0.0000039889074478265005,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PKLBR",
       "extra": {
@@ -349,7 +347,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000436868042122433,
         "recorded_peak_usd": 0.0000039889074478265005,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -359,9 +357,9 @@
       "title": "Hamster Hedge Fund (HAMST)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029457872232620014,
+      "price": 0.0000029613026151800015,
       "reference_price": 0.000003974664905614002,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=HAMST",
       "extra": {
@@ -369,7 +367,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -379,9 +377,9 @@
       "title": "Clipboard Cat (CLIP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029457872232620014,
+      "price": 0.0000029613026151800015,
       "reference_price": 0.000003974664905614002,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CLIP",
       "extra": {
@@ -389,7 +387,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000106379999999998,
         "recorded_peak_usd": 0.000003974664905614002,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -399,9 +397,9 @@
       "title": "Smug Pancake Cat (SMUGP)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002945198456139323,
+      "price": 0.0000029607107470347563,
       "reference_price": 0.000003973870499282951,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SMUGP",
       "extra": {
@@ -409,7 +407,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000473296376619664,
         "recorded_peak_usd": 0.000003973870499282951,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -419,9 +417,9 @@
       "title": "Sill Sentry Cat (SENT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002944088219053339,
+      "price": 0.0000029595946623561912,
       "reference_price": 0.0000039723724887179905,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SENT",
       "extra": {
@@ -429,7 +427,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.00003850726236165,
         "recorded_peak_usd": 0.0000039723724887179905,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -439,9 +437,9 @@
       "title": "Cat Pilot Dispatch (CPILOT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029456796595403194,
+      "price": 0.000002961194484922731,
       "reference_price": 0.0000039745197730170815,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CPILOT",
       "extra": {
@@ -449,7 +447,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000088319999999998,
         "recorded_peak_usd": 0.0000039745197730170815,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -459,9 +457,9 @@
       "title": "Gravy Gremlin (GRVY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002947486102893001,
+      "price": 0.0000029630104427700006,
       "reference_price": 0.000003976957154421001,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=GRVY",
       "extra": {
@@ -469,7 +467,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000407694320148927,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -479,9 +477,9 @@
       "title": "Cat Ferry Captain (CFRY)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002947486102893001,
+      "price": 0.0000029630104427700006,
       "reference_price": 0.000003976957154421001,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=CFRY",
       "extra": {
@@ -489,7 +487,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000395886448163327,
         "recorded_peak_usd": 0.000003976957154421001,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -499,9 +497,9 @@
       "title": "Pickle Courier (PKLC)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029424981974078564,
+      "price": 0.0000029579962661041547,
       "reference_price": 0.000003970227118820409,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=PKLC",
       "extra": {
@@ -509,7 +507,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000175372761514754,
         "recorded_peak_usd": 0.000003970227118820409,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -519,9 +517,9 @@
       "title": "Dreamy Bat Stripes (BATSTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000029440863867993965,
+      "price": 0.0000029595928204518106,
       "reference_price": 0.00000397237001651111,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=BATSTR",
       "extra": {
@@ -529,7 +527,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.000107658699999997,
         "recorded_peak_usd": 0.00000397237001651111,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -539,9 +537,9 @@
       "title": "Lantern Oracle (LANTR)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002944900058220382,
+      "price": 0.0000029604107774610045,
       "reference_price": 0.0000039734678796616295,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=LANTR",
       "extra": {
@@ -549,7 +547,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.003982909690750126,
         "recorded_peak_usd": 0.0000039734678796616295,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -559,9 +557,9 @@
       "title": "Terminal Signal (TSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.0000030200133104645697,
+      "price": 0.000003035919649435498,
       "reference_price": 0.000004074816003274885,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=TSIG",
       "extra": {
@@ -569,7 +567,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.010161022887449992,
         "recorded_peak_usd": 0.000004074816003274885,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -579,9 +577,9 @@
       "title": "Waking Lattice (WLAT)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003046075308530884,
+      "price": 0.0000030621189154317467,
       "reference_price": 0.000004109980698221743,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=WLAT",
       "extra": {
@@ -589,7 +587,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.028375597447592528,
         "recorded_peak_usd": 0.000004109980698221743,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -599,9 +597,9 @@
       "title": "Wake Sigil (WKSIG)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000003037387445455573,
+      "price": 0.0000030533852935862575,
       "reference_price": 0.000004098258417604346,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=WKSIG",
       "extra": {
@@ -609,7 +607,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.1488657344380089,
         "recorded_peak_usd": 0.000004098258417604346,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     },
     {
@@ -619,9 +617,9 @@
       "title": "Quiet Sigil Wakes (SIGIL)",
       "seller": null,
       "currency": "USD",
-      "price": 0.000002991230154929446,
+      "price": 0.0000030069848936981473,
       "reference_price": 0.000004035979729807855,
-      "discount_pct": 26,
+      "discount_pct": 25,
       "signal": "below_peak",
       "action": "https://grift.world/coins?t=SIGIL",
       "extra": {
@@ -629,7 +627,7 @@
         "volume24h_usd": 0,
         "fees_eth": 0.5290533284878222,
         "recorded_peak_usd": 0.000004035979729807855,
-        "prior_runs": 1994
+        "prior_runs": 1995
       }
     }
   ]
