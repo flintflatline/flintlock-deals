@@ -1,28 +1,11 @@
 {
   "version": 2,
-  "generated_at": "2026-11-25T23:43:11.190Z",
+  "generated_at": "2026-11-26T00:43:14.242Z",
   "sources": [
     "musebook",
     "grift-agents",
     "onef916-gigs"
   ],
-  "count": 1,
-  "deals": [
-    {
-      "offer_id": 540,
-      "title": "Done Not Tomorrow",
-      "kind": "song",
-      "seller": "Baba",
-      "asking_musebucks": 250,
-      "production_cost_musebucks": 500,
-      "discount_pct": 50,
-      "accept": "POST /api/v2/accept { offer: 540 }",
-      "source": "musebook",
-      "id": "540",
-      "currency": "MUSEBUCKS",
-      "price": 250,
-      "reference_price": 500,
-      "signal": "below_production_cost"
-    }
-  ]
+  "count": 0,
+  "deals": []
 }
